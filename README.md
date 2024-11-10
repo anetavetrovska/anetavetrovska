@@ -1,4 +1,4 @@
-## Hi there 👋
+Welcome to my portfolio repository! Here, you can find some documents showcasing my projects, work experience, and skills. Please note that, unfortunately, all PDF files must be downloaded to be viewed as they cannot be opened directly on GitHub. I apologize for any inconvenience this may cause. Thank you for taking the time to explore my work!
 
 <!--
 **anetavetrovska/anetavetrovska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
